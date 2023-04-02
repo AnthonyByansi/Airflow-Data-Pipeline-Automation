@@ -15,3 +15,10 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
+Next, you can initialize the Airflow database and start the Airflow web server: 
+``bash
+`$ airflow db init
+ $ airflow webserver --port 8080
+```
+
+

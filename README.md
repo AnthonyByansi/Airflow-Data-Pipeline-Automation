@@ -21,4 +21,6 @@ $ airflow db init
 $ airflow webserver --port 8080
 ```
 
+Finally, you can trigger the DAG by navigating to the Airflow web interface at `http://localhost:8080` and clicking on the "Trigger DAG" button. This will start the process of extracting, transforming, and loading data according to the specific use case defined in the DAG.
+
 

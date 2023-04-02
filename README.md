@@ -29,3 +29,9 @@ Finally, you can trigger the DAG by navigating to the Airflow web interface at `
 If you are interested in contributing to this project, please feel free to submit a pull request. We welcome contributions of all kinds, including bug fixes, new features, and documentation improvements.
 
 Before submitting a pull request, please make sure to run the tests and format your code using `flake8` and `black`:
+```bash
+$ pytest
+$ flake8
+$ black .
+```
+

@@ -8,7 +8,7 @@ To get started with this project, you will need to have Apache Airflow installed
 
 Once you have Airflow installed, you can clone this repository to your local machine and create a new virtual environment using the requirements.txt file provided:
 ```bash
-$ git clone https://github.com/your-username/airflow-data-pipeline-automation.git
+$ git clone https://github.com/AnthonyByansi/airflow-data-pipeline-automation.git
 $ cd airflow-data-pipeline-automation
 $ python -m venv venv
 $ source venv/bin/activate
@@ -36,4 +36,4 @@ $ black .
 ```
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AnthonyByansi/Airflow-Data-Pipeline-Automation/blob/main/README.md) file for details.

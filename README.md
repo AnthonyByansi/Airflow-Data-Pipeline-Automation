@@ -7,3 +7,11 @@ This project provides a workflow using Apache Airflow to automate the data pipel
 To get started with this project, you will need to have Apache Airflow installed on your system. You can follow the installation instructions provided by the official Airflow documentation [here](https://airflow.apache.org/docs/apache-airflow/stable/start/index.html).
 
 Once you have Airflow installed, you can clone this repository to your local machine and create a new virtual environment using the requirements.txt file provided:
+```bash
+$ git clone https://github.com/your-username/airflow-data-pipeline-automation.git
+$ cd airflow-data-pipeline-automation
+$ python -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+

@@ -30,7 +30,7 @@ ConfigUpdater==3.2
 connexion==2.14.2
 cron-descriptor==1.4.3
 croniter==2.0.5
-cryptography==42.0.7
+cryptography==43.0.1
 Deprecated==1.2.14
 dill==0.3.8
 dnspython==2.6.1

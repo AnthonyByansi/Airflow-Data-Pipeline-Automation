@@ -106,7 +106,7 @@ python-slugify==8.0.4
 pytz==2024.1
 PyYAML==6.0.1
 referencing==0.35.1
-requests==2.31.0
+requests==2.32.2
 requests-toolbelt==1.0.0
 rfc3339-validator==0.1.4
 rich==13.7.1
